@@ -4216,7 +4216,7 @@ fieldset:disabled .btn {
   color: #fff;
 }
 .hero {
-  background-image: url(/img/1.png);
+  background-image: url(img/1.png);
   min-height: 544px;
   text-align: center;
   background-repeat: no-repeat;
@@ -4337,15 +4337,15 @@ fieldset:disabled .btn {
 }
 
 .categories-item-men {
-  background-image: url(/img/2.png);
+  background-image: url(img/2.png);
   background-repeat: no-repeat;
 }
 .categories-item-women {
-  background-image: url(/img/3.png);
+  background-image: url(img/3.png);
   background-repeat: no-repeat;
 }
 .categories-item-accessories {
-  background-image: url(/img/4.png);
+  background-image: url(img/4.png);
   background-repeat: no-repeat;
 }
 .categories-link {
@@ -4413,7 +4413,7 @@ fieldset:disabled .btn {
   border-radius: 0;
 }
 .footer {
-  background-image: url(/img/6.png);
+  background-image: url(img/6.png);
   min-height: 157px;
 }
 .footer p {
